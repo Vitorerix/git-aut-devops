@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório! Esse é um projeto de exemplo para demonstrar o uso básico do Git e Github
 
-## Técnologias usadas
+## Tecnologias usadas
 
 - Git
 - Github
